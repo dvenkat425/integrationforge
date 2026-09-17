@@ -5,7 +5,7 @@ and get back a flow diagram plus a real, runnable webhook handler implementing i
 
 ![IntegrationForge screenshot](docs/screenshot.png)
 
-**[Live demo](#)** · Built by [Deepa Venkat](https://github.com/) with Next.js and the Claude API
+**[Live demo](https://integrationforge.vercel.app/)** · Built by [Deepa Venkat](https://github.com/) with Next.js and the Claude API
 
 ## Why this exists
 
