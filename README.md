@@ -54,13 +54,6 @@ git push -u origin main
 
 (Create the empty `integrationforge` repo on GitHub first, without a README or .gitignore.)
 
-## Deploying your own copy
-
-1. Push this repo to your own GitHub account (see above).
-2. Import it into [Vercel](https://vercel.com/new) — it auto-detects Next.js, no config needed.
-3. Add an environment variable `ANTHROPIC_API_KEY` in the Vercel project settings.
-4. Deploy.
-
 ## Notes / limitations
 
 - Generated code is a strong first draft meant to be adapted, not a verified/tested integration —
